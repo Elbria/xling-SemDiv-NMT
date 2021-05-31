@@ -26,10 +26,7 @@ This repository contains code for the ACL 2021 paper that can be found [here]()!
 
 ## Documentation
 
-#  Step 1
-# =======
-# Download and preprocess WikiMatrix data
-
+*  Step 1 (Download and preprocess WikiMatrix data)
 '''bash download-data.sh en fr'''
 
 # Step 2
